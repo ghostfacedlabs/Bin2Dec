@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Bin2Dec</string>
+    <string name="dec_value">Enter Decimal</string>
+    <string name="binHint">Enter Binary</string>
+    <string name="convertBinary">To Binary</string>
+    <string name="convertDecimal">To Decimal</string>
+    <string name="reset">Clear</string>
+    <string name="text_entry_hint">Enter a Binary Number</string>
+    <string name="decLabel">Decimal</string>
+    <string name="binLabel">Binary</string>
+    <string name="titleViewString">Convert Integer and Binary Numbers</string>
 </resources>
